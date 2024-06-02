@@ -5,20 +5,20 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
-{
+<<<<<<< HEAD
  //Sample Code
-}
 
 feature1()
 {
   //Sample Code for Feature 1
 }
 
-feature2()
+=======
+feaature2()
 {
   //Sample Code for Feature 2
 }
+>>>>>>> feature2
 
 
 }
